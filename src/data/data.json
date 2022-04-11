@@ -1,0 +1,25 @@
+{
+    "seasons": {
+        "1": "Winter",
+        "2": "Spring-Summer",
+        "3": "Fall"
+    },
+    "app_types": {
+        "1": "Abroad",
+        "2": "COEL",
+        "3": "COS",
+        "4": "Domestic",
+        "5": "Reinstatement",
+        "6": "Transfer In",
+        "7": "Testing(2)"
+    },
+    "programs": {
+        "1": "ESL",
+        "2": "EAP",
+        "3": "PE",
+        "4": "Healthcare",
+        "5": "BUSA",
+        "6": "MKTG",
+        "7": "ACC"
+    }
+}
