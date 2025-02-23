@@ -11,7 +11,7 @@ class MessageDao:
             result = {}
 
             # Get unread emails from Students Folder
-            messages = outlook.GetDefaultFolder(6).folders['Students'].Items.Restrict("[Unread]=True")
+            messages = outlook.GetDefaultFolder(6).folders['Notifications'].Items.Restrict("[Unread]=True")
 
             # Filter emails by attachements
             id = 1
